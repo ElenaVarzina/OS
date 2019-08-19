@@ -1,0 +1,1 @@
+set /a getSize=%~z1
